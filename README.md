@@ -19,3 +19,5 @@ docker run -d \
  ghcr.io/v0d0r/homepage-editor:latest
 
 Access the editor at `http://localhost:8080`
+
+![Homepage Editor Screenshot](images/screenshot.png)
